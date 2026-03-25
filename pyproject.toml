@@ -8,6 +8,7 @@ dependencies = [
     "ipykernel>=7.2.0",
     "matplotlib>=3.10.8",
     "missingno>=0.5.2",
+    "networkx>=3.6.1",
     "numpy>=2.4.3",
     "pandas>=3.0.1",
     "ruff>=0.15.5",
@@ -17,8 +18,3 @@ dependencies = [
     "tqdm>=4.67.3",
     "ucimlrepo>=0.0.7",
 ]
-
-[[tool.uv.index]]
-name = "netperfeng-common-pub"
-url = "https://artifactory-espoo2.int.net.nokia.com/artifactory/api/pypi/netperfeng-common-pypi-virtual/simple/"
-default = true
