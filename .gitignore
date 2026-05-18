@@ -5,3 +5,4 @@ __pycache__/
 *.pyo
 *.pdf
 .DS_Store
+lab-04/lab03.ipynb
