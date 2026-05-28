@@ -9,6 +9,7 @@ dependencies = [
     "isort>=8.0.1",
     "matplotlib>=3.10.8",
     "missingno>=0.5.2",
+    "nbformat>=5.10.4",
     "networkx>=3.6.1",
     "numpy>=2.4.3",
     "pandas>=3.0.1",
